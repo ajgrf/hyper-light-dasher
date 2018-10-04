@@ -1,3 +1,14 @@
+# Hyper Light Dasher
+
+This project automates the 800 dash challenge in the Nintendo Switch version of Hyper Light Drifter.
+To start:
+
+1. Position the drifter next to the stamina charger.
+2. Hit the home menu and navigate to Controllers->Change Grip/Order.
+3. Plug in the Teensy++ 2.0.
+
+It is adapted from Bertrand Fan's snowball thrower for Zelda. The original README follows.
+
 ## snowball thrower
 
 Automatically throws snowballs in The Legend of Zelda: Breath of the Wild by emulating a controller on a Teensy++ v2.0
